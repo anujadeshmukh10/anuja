@@ -1,0 +1,14 @@
+---
+title: "New Project"
+author: "Anuja"
+date: "2022-11-19"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+print ("abc")
+```
